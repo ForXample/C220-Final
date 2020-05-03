@@ -1,0 +1,48 @@
+Name: Zixi Liu
+Date: 2020/5/2
+
+Project: The Fed
+Group's repository: https://github.com/ForXample/C220-Final
+
+
+
+What is something you learned by reviewing this group's project?
+I learned about how much the society is suffering from this worldwide pendemic and that we should fight it together.
+ 
+
+In what ways does this game reflect the theme?
+By letting the player to decide what would be done as a nation to fight this pendemic.
+ 
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+I love the idea that to actually run the country as the head of state to see what would have happened if "this" or "that" was done. It gives us the players a
+chance to reflect on what we could have done better so that we can actually learn from it.
+ 
+
+What suggestions would you have for this group to improve the game?
+Despite its decent quality in terms of gameplay, the art style is not to my likings.
+ 
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+The script is pretty straightforward to me.
+ 
+
+Is it clear that every group member participated?
+Yes.
+ 
+
+Does the repository contain an appropriate LICENSE?
+Yes.
+ 
+
+What is something the group could add to the README.md to make it more descriptive?
+The Fed could add where is the gif from.
+ 
+
+Pay a compliment to the group based on the quality of the game.
+I love how this game is built in terms of coding. And I also love the idea that to let the players fight the virus, not as a single person. When playing 
+a game like this as a person, the player can easily feel frustrated that a single person cannot really do much about this worldwide outbreak.
+
+How many of your points would you allocate to this project?
+I'd rate it 8 out of 10. 2 points for the aesthetic part (it's totally a choice out of personal preference). Good job yall!
+
